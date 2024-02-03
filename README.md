@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Digital sambidhan**
 
-- 🌱 I’m currently learning **Manual Testing**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **jsurya860@gmail.com**
 
