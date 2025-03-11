@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/jsurya860" target="blank"><img src="https://img.shields.io/twitter/follow/jsurya860?logo=twitter&style=for-the-badge" alt="jsurya860" /></a> </p>
 
-- 🔭 I’m currently working as an ** QA Intern**
+- 🔭 I’m currently working as an **QA Intern**
 
 - 🌱 I’m currently learning **Quality Assurance**
 
